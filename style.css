@@ -1,0 +1,28 @@
+.link {
+    color: rgb(4, 4, 187);
+    text-align: center;
+    text-decoration: none;
+}
+header{
+background-color: grey;
+height: 50px;
+}
+.link:hover {
+    color: rgb(168, 8, 168);
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+}
+.box {
+    display: flex;
+    gap: 20px;
+}
+
+.class {
+    text-align: center;
+    background-color: darkcyan;
+    height: 50px;
+}
